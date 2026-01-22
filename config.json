@@ -1,19 +1,33 @@
 {
+  "name": "Custom AdGuard Filter",
+  "description": "Compiled filter for AdGuard Home",
+  "homepage": "https://example.org",
+  "license": "GPLv3",
+  "version": "1.0.0",
   "sources": [
     {
-      "source": "https://raw.githubusercontent.com/ppfeufer/adguard-filter-list/master/regex.txt",
+      "name": "Local rules",
+      "source": "rules.txt",
+      "type": "adblock",
+      "transformations": [
+        "RemoveComments",
+        "Compress"
+      ],
+      "exclusions_sources": [
+        "exclusions.txt"
+      ]
+    },
+    {
+      "name": "ppfeufer list",
+      "source": "https://github.com/ppfeufer/adguard-filter-list/blob/master/blocklist?raw=true",
       "type": "adblock"
     }
-  ],
-  "exclusions": [
-    "www.histats.com",
-    "histats.com",
-    "api.histats.com",
-    
   ],
   "transformations": [
     "Deduplicate",
     "Compress"
   ],
-  "output": "custom-filter.txt"
+  "exclusions_sources": [
+    "global_exclusions.txt"
+  ]
 }

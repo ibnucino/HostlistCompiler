@@ -1,0 +1,4 @@
+||histats.com^$badfilter
+||www.histats.com^
+||histats.com^
+||api.histats.com^

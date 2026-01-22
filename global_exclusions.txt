@@ -1,0 +1,17 @@
+||histats.com^$badfilter
+||www.histats.com^
+||histats.com^
+||api.histats.com^
+||adsterra.com^
+||s.youtube.com^
+||facebook.com^
+||fbcdn.com^
+||fbcdn.net^
+||fbsbx.com^
+||messenger.com^
+||connect.facebook.net^
+||instagram.com^
+||cdninstagram.com^
+||whatsapp.com^
+||whatsapp.net^
+||surfshark.com^
