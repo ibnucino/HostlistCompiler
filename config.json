@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "source": "https://raw.githubusercontent.com/ppfeufer/adguard-filter-list/master/regex.txt",
+      "type": "adblock"
+    }
+  ],
+  "exclusions": [
+    "www.histats.com",
+    "histats.com",
+    "api.histats.com",
+    
+  ],
+  "transformations": [
+    "Deduplicate",
+    "Compress"
+  ],
+  "output": "custom-filter.txt"
+}
