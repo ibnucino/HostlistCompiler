@@ -4,6 +4,8 @@
 ||s.youtube.com^
 ||connect.facebook.net^
 ||fbsbx.com^
+||fbcdn.net^
 ||whatsapp.com^
 ||whatsapp.net^
 ||surfshark.com^
+||i.instagram.com^
