@@ -1,11 +1,44 @@
 ||www.histats.com^
 ||histats.com^
 ||api.histats.com^
-||s.youtube.com^
-||connect.facebook.net^
-||fbsbx.com^
-||fbcdn.net^
-||whatsapp.com^
-||whatsapp.net^
-||surfshark.com^
-||i.instagram.com^
+||adsterra.com^
+# --- Facebook & Messenger ---
+facebook.com
+www.facebook.com
+connect.facebook.net
+graph.facebook.com
+web-chat-e2ee.facebook.com
+mqtt-mini.facebook.com
+edge-chat.facebook.com
+api.facebook.com
+
+# --- Facebook CDN & Assets (Penting untuk Web) ---
+static.xx.fbcdn.net
+scontent.xx.fbcdn.net
+scontent.facebook.com
+fbcdn.net
+
+# --- Instagram ---
+i.instagram.com
+cdninstagram.com
+scontent.cdninstagram.com
+
+# --- WhatsApp ---
+whatsapp.net
+web.whatsapp.com
+
+# --- YouTube & Google Video ---
+googlevideo.com
+youtube.com
+m.youtube.com
+ytimg.com
+ggpht.com
+accounts.google.com
+googleapis.com
+
+# --- Twitter/X & TikTok CDN ---
+twimg.com
+video.twimg.com
+api.twitter.com
+tiktokcdn.com
+p16-tiktokcdn-com.akamaized.net
