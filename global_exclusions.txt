@@ -1,7 +1,7 @@
-||www.histats.com^
-||histats.com^
-||api.histats.com^
-||adsterra.com^
+www.histats.com
+histats.com
+api.histats.com
+adsterra.com
 # --- Facebook & Messenger ---
 facebook.com
 www.facebook.com
@@ -19,6 +19,7 @@ scontent.facebook.com
 fbcdn.net
 
 # --- Instagram ---
+instagram.com
 i.instagram.com
 cdninstagram.com
 scontent.cdninstagram.com
