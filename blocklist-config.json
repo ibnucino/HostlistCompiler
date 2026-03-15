@@ -6,21 +6,9 @@
   "version": "1.0.0",
   "sources": [
     {
-      "name": "AdGuard DNS filter",
-      "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
-      "type": "adblock",
-      "transformations": ["RemoveComments", "Compress", "Validate"]
-    },
-    {
       "name": "AdGuard MobileFilter",
       "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/specific_app.txt",
       "type": "adblock",
-      "transformations": ["RemoveComments", "Compress", "Validate"]
-    },
-    {
-      "name": "AdAway Default Blocklist",
-      "source": "https://adaway.org/hosts.txt",
-      "type": "hosts",
       "transformations": ["RemoveComments", "Compress", "Validate"]
     },
     {

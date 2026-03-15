@@ -1235,8 +1235,8 @@ diff-sequences@^29.6.3:
 
 "diff@git+https://github.com/105th/jsdiff.git#2be2e7df90e8eebd99f0385c7b1dc16c2f4dcc1a":
   version "5.1.1"
-  resolved "git+ssh://git@github.com/105th/jsdiff.git"
-  integrity sha512-SyzPmpPGGe0EkCyxm4jawUzxaJ9xnMJ/pmCGSQ80OjF02hwtftoCYMKuMAZ3tVN/oECcyIhSuzW6T0wnLsqSuQ==
+  resolved "git+ssh://git@github.com/105th/jsdiff.git#2be2e7df90e8eebd99f0385c7b1dc16c2f4dcc1a"
+  integrity sha512-PAr7x0oHJ6BHIE3udsrL7U5TYjDjX41gHIrG+RMWsNcA1LS1CeZkLouapScTyjo1ZBbrPu/urKREWNwpidWkFA==
 
 doctrine@^2.1.0:
   version "2.1.0"
