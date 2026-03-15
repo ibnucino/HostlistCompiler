@@ -1,6 +1,4 @@
-||www.histats.com^
-||histats.com^
-||api.histats.com^
+histats.com
 ||adsterra.com^
 ||facebook.com^
 ||www.facebook.com^
