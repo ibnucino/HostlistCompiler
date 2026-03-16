@@ -1,4 +1,5 @@
-histats.com
+||www.histats.com^
+||histats.com^
 ||adsterra.com^
 ||facebook.com^
 ||www.facebook.com^
@@ -18,9 +19,11 @@ histats.com
 ||scontent.cdninstagram.com^
 ||whatsapp.net^
 ||web.whatsapp.com^
+||whatsapp.com^
 ||googlevideo.com^
 ||youtube.com^
 ||m.youtube.com^
+||s.youtube.com
 ||ytimg.com^
 ||ggpht.com^
 ||accounts.google.com^
