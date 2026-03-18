@@ -17,6 +17,9 @@
 ||i.instagram.com^
 ||cdninstagram.com^
 ||scontent.cdninstagram.com^
+||graph.instagram.com
+||whatsapp.com^
+||whatsapp.net^
 ||graph.whatsapp.net^
 ||web.whatsapp.com^
 ||graph.whatsapp.com^
